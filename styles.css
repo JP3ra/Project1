@@ -1,0 +1,257 @@
+body {
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom:0px;
+    margin: 0px;
+}
+
+.logo_image {
+    display: block;
+    width: 100px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 50px;
+}
+
+.bg_image {
+    width: 1535px;
+    position: relative;
+    bottom: 158px;
+
+}
+
+h1 {
+    position: relative;
+    bottom: 325.44px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #012443;
+}
+
+h5 {
+    position: relative;
+    bottom: 325px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:dimgray;
+}
+
+a {
+    position: relative;
+    bottom: 300px;
+    text-align: center;
+}
+
+.button1 {
+    display: block;
+    width: 175px;
+    height: 30px;
+    background: #57CC99;
+    padding: 10px;
+    border-radius: 5px;
+    color:white;
+    font-weight: bold;
+    line-height: 25px;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position:relative;
+    left: 575px;    
+}
+
+.button2 {
+    display: block;
+    width: 175px;
+    height: 30px;
+    background:#113CFC;
+    padding: 10px;
+    border-radius: 5px;
+    color:white;
+    font-weight: bold;
+    line-height: 25px;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    left:775px;
+    bottom: 350px;
+}
+
+h2 {
+    position: relative;
+    bottom: 275px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #012443;
+}
+
+.subheading2 {
+    position: relative;
+    bottom: 275px;
+
+}
+
+
+.comp_image {
+    width: 500px;
+    height: 400px;
+    position: relative;
+    bottom: 175px;
+    right: 10px;
+}
+
+.heading3 {
+    position: relative;
+    left: 675px;
+    bottom: 550px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.subheading3 {
+    position: relative;
+    left: 675px;
+    bottom: 550px;
+    text-align: justify;
+}
+
+.heading4 {
+    position: relative;
+    left: 675px;
+    bottom: 550px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.subheading4 {
+    position: relative;
+    left: 675px;
+    bottom: 550px;
+    text-align: justify;
+}
+
+.heading5 {
+    position: relative;
+    left: 675px;
+    bottom: 550px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.subheading5 {
+    position: relative;
+    left: 675px;
+    bottom: 550px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}
+
+div {
+    text-align: justify;
+}
+
+.heading6 {
+    position:relative;
+    bottom: 400px;
+}
+
+.subheading6 {
+    bottom: 400px;
+}
+
+.devices_image {
+    display: block;
+    width: 700px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    bottom: 350px;
+}
+
+.heading7 {
+    position: relative;
+    bottom: 300px;
+}
+
+.subheading7 {
+    position: relative;
+    bottom: 300px;
+}
+
+.book {
+    position: relative;
+    bottom: 275px;
+    left: 350px;
+}
+
+.letter {
+    position: relative;
+    bottom: 278px;
+    left: 650px;
+}
+
+.eye {
+    position: relative;
+    bottom: 275px;
+    left: 950px;
+}
+
+.heading8 {
+    position: relative;
+    bottom: 240px;
+    left: 300px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.heading9 {
+    position: relative;
+    bottom: 283px;
+    left: 650px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.heading10 {
+    position: relative;
+    bottom: 330px;
+    left: 1050px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.google {
+    position: relative;
+    bottom: 275px;
+    left:190px;
+}
+
+.ibm {
+    position: relative;
+    bottom: 275px;
+    left: 260px;
+}
+
+.microsoft {
+    position: relative;
+    bottom: 275px;
+    left: 340px;
+}
+
+.hp {
+    position: relative;
+    bottom: 275px;
+    left: 450px;
+}
+
+.vector {
+    position: relative;
+    bottom: 275px;
+    left: 560px;
+}
+
+.heading11 {
+    position: relative;
+    bottom: 130px;
+}
+
+.subheading8 {
+    bottom: 130px;
+}
+
